@@ -1,6 +1,11 @@
 # Data_Science_for_Suppy_Chain_and_Operations
 Data_Science_for_Suppy_Chain_and_Operations
 
+All the steps are explained in the notebooks.
+Run "Data exploration, data cleaning & feature engineering.ipynb" then "Data analysis with supervised learning.ipynb".
+
+----------------
+
 To run the notebook "Data exploration, data cleaning & feature engineering.ipynb" download "store.csv" and "train.csv" from this link : 
 https://drive.google.com/file/d/1O2aq_M8dBCL9Z_aGC-67J37hiI3_Cw5s/view?usp=sharing
 
